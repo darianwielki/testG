@@ -3,4 +3,5 @@
   <groupId>org.megasoft</groupId>
   <artifactId>testG</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <!-- to jest slitasny komentarz -->
 </project>
